@@ -12,7 +12,7 @@ FOOTER: process.env.FOOTER || "Didula MD V2 💚",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 IMAGE_LIMIT: process.env.IMAGE_LIMIT || "3",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/tC37Q7B/20241220-122443.jpg",
-SESSION_ID: process.env.SESSION_ID || "O6Y3jJbJ#NVckLSYXMAalf02CJ8zHkFuwRE6KDC-Qq43DHRXxCwg",
+SESSION_ID: process.env.SESSION_ID || "IvdRDTwJ#zTvwBocoFjx6PhtOJEhS-e46VjYoVKwhsMDX9VeZucQ",
 OWNER_NUMBER: process.env.SESSION_ID || "94720244981",
 PREFIX: process.env.PREFIX || ".",
 ANTI_DELETE: process.env.ANTI_DELETE || "true"
