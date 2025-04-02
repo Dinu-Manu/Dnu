@@ -45,7 +45,7 @@ cmd({
 ┇๏ *Url* -  ${songData.url}
 ╰━━❑━⪼
 
-*🌟 𝗙𝗼𝗹𝗹𝗼𝘄 𝗨𝘀 -* https://whatsapp.com/channel/0029Vac3pnlBlHpXLrUBym3a
+*🌟 𝗙𝗼𝗹𝗹𝗼𝘄 𝗨𝘀 -* https://whatsapp.com/channel/0029Vb8WOgSBPzjfG09WEn10
 
 > *©ꜱᴀʜᴀꜱ ᴍᴜꜱɪᴄ ꜱᴛʏʟᴇ*`;
 
