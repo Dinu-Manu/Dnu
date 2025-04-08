@@ -31,7 +31,7 @@ cmd({
     const result = await ddownr.download(songUrl, 'mp3'); // Download in mp3 format
     const downloadLink = result.downloadUrl; // Get the download URL
 
-    let songDetailsMessage = `╭━━━〔 *𝐓ʜᴇ 𝐇ᴏʀɪᴢᴏɴ ᥫ᭡🕊️|🇱🇰* 〕━━━┈⊷
+    let songDetailsMessage = `╭━━━〔 *𝙒𝙀𝙇𝘾𝙊𝙈𝙀* 〕━━━┈⊷
 ┃▸╭───────────
 ┃▸┃๏ *Use headphones for best experience🎧🎶💆‍♂️*
 ┃▸└───────────···๏
