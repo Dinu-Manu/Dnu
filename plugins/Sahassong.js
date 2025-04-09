@@ -47,7 +47,7 @@ cmd({
 
 *🌟 𝗙𝗼𝗹𝗹𝗼𝘄 𝗨𝘀 -* https://whatsapp.com/channel/0029Vb8WOgSBPzjfG09WEn10
 
-> *🎶🆂αԋαʂ  🆂σɳɠ 🅷υႦ ᥫ᭡🕊️|🇱🇰*`;
+> *🎶🆂αԋαʂ  🆂σɳɠ 🅷υႦ ᥫ᭡|🇱🇰*`;
 
     // Send the video thumbnail with song details
     await messageHandler.sendMessage(from, {
