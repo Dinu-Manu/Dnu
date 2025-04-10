@@ -4,7 +4,7 @@ const { ytmp3 } = require("@vreden/youtube_scraper");
 
 cmd(
 {
-pattern: "song",
+pattern: "vre",
 alias: "ytmp3", // Add a comma here
 react: "🎵",
 desc: "Download Song",
