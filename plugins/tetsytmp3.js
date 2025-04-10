@@ -5,6 +5,7 @@ const yts = require("yt-search");
 cmd({
   pattern: "hu",
   alias: ["mp3", "yta"],
+  react: "😑",
   desc: "Search or download YouTube audio using Dinu API",
   category: "downloader",
   use: "<YouTube URL or search query>",
