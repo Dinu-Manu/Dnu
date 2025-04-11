@@ -76,7 +76,7 @@ _https://whatsapp.com/channel/0029Vb3mqn5H5JLuJO3s3Z1J/2311_`;
       );
 
       // Download song (only send as PTT)
-      const quality = "128";
+      const quality = "64";
       const songData = await ytmp3(url, quality);
 
       if (!songData || !songData.download || !songData.download.url) {
