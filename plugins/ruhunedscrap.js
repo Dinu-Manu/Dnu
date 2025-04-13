@@ -4,7 +4,7 @@ const { ytmp3 } = require('ruhend-scraper');
 const yts = require('yt-search');
 
 cmd({
-    pattern: "song",
+    pattern: "ruhu",
     desc: 'Download Song as MP3',
     use: '.song [song name]',
     react: "📥",
