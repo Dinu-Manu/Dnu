@@ -1,0 +1,10 @@
+{
+  "build": {
+    "env": {
+      "SESSION_ID": {
+        "required": true,
+        "description": "Enter your WhatsApp session ID from MEGA"
+      }
+    }
+  }
+}
